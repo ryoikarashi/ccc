@@ -1,3 +1,0 @@
-/home/ryo/Sites/studies/cccc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/ryo/Sites/studies/cccc/cmake-build-debug/CMakeFiles/ccc.dir
-/home/ryo/Sites/studies/cccc/cmake-build-debug/CMakeFiles/edit_cache.dir
