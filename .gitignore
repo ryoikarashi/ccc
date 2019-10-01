@@ -4,3 +4,4 @@ tmp*
 ccc
 ccc.s
 a.out
+/cmake-build-debug/
